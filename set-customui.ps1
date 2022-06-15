@@ -1,0 +1,1 @@
+Start-Process -filepath "C:\windows\regedit.exe" -argumentlist "/s .\ws2kx-custom-server-ui.reg"
